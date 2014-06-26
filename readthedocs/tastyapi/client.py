@@ -6,9 +6,7 @@ import requests
 log = logging.getLogger(__name__)
 
 SERVER_LIST = [
-    'http://djangopackages.com',
-    'http://plone.opencomparison.org',
-    'http://pyramid.opencomparison.org',
+
 ]
 
 
