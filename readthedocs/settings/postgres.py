@@ -48,7 +48,7 @@ ES_DEFAULT_NUM_SHARDS = 5
 SLUMBER_API_HOST = 'https://readthedocs.org'
 WEBSOCKET_HOST = 'websocket.readthedocs.org:8088'
 
-PRODUCTION_DOMAIN = 'readthedocs.org'
+PRODUCTION_DOMAIN = 'doc.onroerenderfgoed.be'
 USE_SUBDOMAIN = True
 NGINX_X_ACCEL_REDIRECT = True
 
